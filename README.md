@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi fellow humans 
 
 <!--
 **annkamsk/annkamsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
